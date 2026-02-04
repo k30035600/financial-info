@@ -1,0 +1,12 @@
+{
+  "name": "financial-info",
+  "version": "1.0.0",
+  "description": "금융거래 통합정보 정적 페이지",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
